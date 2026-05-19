@@ -1,15 +1,55 @@
 # Bonjour, moi c'est Adeline 👋
 
-Développeuse web full stack junior récemment diplômée à la suite d’une reconversion professionnelle avec Centre Européen de Formation.
+Développeuse web full stack junior récemment diplômée à la suite d’une reconversion professionnelle avec le Centre Européen de Formation.
 
-## 🚀 Technologies
+Passionnée par le développement web et les technologies frontend/backend, je continue à développer différents projets afin d’approfondir mes compétences techniques et découvrir de nouvelles technologies.
 
-Angular • Symfony • Django • Vue.js • React • PHP • JavaScript • HTML/CSS • MySQL • WordPress
+# 🚀 Technologies
+## Frontend
+- ⚛️ React
+- 🅰️ Angular
+- 💚 Vue.js
+- 🎨 HTML5 / CSS3 / Sass
+- 🟨 JavaScript / TypeScript
+
+## Backend
+- 🐘 PHP / Symfony
+- 🐍 Python / Django
+- 🟩 Node.js / Express
+  
+## 🗄️ Bases de données
+- 🐬 MySQL
+- 🍃 MongoDB
+
+## 🛒 E-commerce & CMS
+- 🛒 WooCommerce
+- 🌐 WordPress
+- 💳 Stripe
 
 ## 🛠 Outils & environnements
+- 🔧 Git & GitHub
+- 🎨 Figma
+- ☁️ AlwaysData
+- 🐧 Ubuntu
+- 📂 FileZilla
+- 🖥️ XAMPP
 
-Git/GitHub • Ubuntu • AlwaysData • XAMPP • FileZilla • Figma
 
-## 🎯 Objectif
+# 📌 Projets principaux
+
+- 🛒 Stubborn – Application e-commerce Symfony
+- ⚓ Port de Plaisance Russell – API REST Node.js
+- 📚 Médiathèque Django
+- 🔍 Trouve ton Artisan – Angular
+- 🌿 La Vie des Plantes – WordPress WooCommerce
+
+
+# 🎯 Objectif
 
 Continuer à développer mes compétences techniques, découvrir de nouvelles technologies et relever de nouveaux challenges à travers des projets concrets et enrichissants.
+
+# 📫 Contact
+
+- 💼 LinkedIn : www.linkedin.com/in/adelinecanon
+- 🔗 GitHub : github.com/Ad15C
+- 📧 ad15canon@gmail.com
