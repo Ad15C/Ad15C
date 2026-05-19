@@ -1,6 +1,6 @@
 Bonjour, moi c’est Adeline 👋
 
-Développeuse web full stack junior récemment diplômée à la suite d’une reconversion professionnelle avec Centre Européen de Formation.
+**Développeuse web full stack junior** récemment diplômée à la suite d’une reconversion professionnelle avec Centre Européen de Formation.
 
 Au cours de ma formation, j’ai travaillé sur différents projets me permettant de mettre en pratique des technologies telles que :
 Angular • Symfony • Django • Vue.js • React • PHP • JavaScript • HTML/CSS • MySQL • WordPress.
