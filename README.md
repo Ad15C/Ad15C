@@ -42,6 +42,7 @@ Passionnée par le développement web et les technologies frontend/backend, je c
 - 📚 Médiathèque Django
 - 🔍 Trouve ton Artisan – Angular
 - 🌿 La Vie des Plantes – WordPress WooCommerce
+- 📚 Knowledge Learning – Plateforme e-learning Symfony
 
 
 # 🎯 Objectif
